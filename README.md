@@ -1,1 +1,1 @@
-# pacmann_Probability_project
+# Probability Project
